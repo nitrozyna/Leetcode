@@ -6,3 +6,4 @@ class Solution:
             if heights[i] != comp[i]:
                 count += 1
         return count
+

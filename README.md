@@ -6,3 +6,4 @@ Solutions to some exercises on Leetcode
 3. [Find N Unique Integers Sum up to Zero](https://leetcode.com/problems/find-n-unique-integers-sum-up-to-zero/)
 4. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 5. [Path Sum](https://leetcode.com/problems/path-sum/)
+6. [Height Checker](https://leetcode.com/problems/height-checker/)

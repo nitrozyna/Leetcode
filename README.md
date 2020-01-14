@@ -7,3 +7,4 @@ Solutions to some exercises on Leetcode
 4. [Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/)
 5. [Path Sum](https://leetcode.com/problems/path-sum/)
 6. [Height Checker](https://leetcode.com/problems/height-checker/)
+7. [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)

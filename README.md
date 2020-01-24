@@ -9,3 +9,4 @@ Solutions to some exercises on Leetcode
 6. [Height Checker](https://leetcode.com/problems/height-checker/)
 7. [Partition Array Into Three Parts With Equal Sum](https://leetcode.com/problems/partition-array-into-three-parts-with-equal-sum/)
 8. [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
+9. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)

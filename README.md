@@ -12,4 +12,4 @@ Solutions to some exercises on Leetcode
 9. [Fibonacci Number](https://leetcode.com/problems/fibonacci-number/)
 10. [Minimum Absolute Difference](https://leetcode.com/problems/minimum-absolute-difference/)
 11. [Find Special Interger](https://leetcode.com/problems/element-appearing-more-than-25-in-sorted-array/)
-
+12. [Subtract the Product and Sum](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)

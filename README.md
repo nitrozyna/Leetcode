@@ -15,3 +15,5 @@ Solutions to some exercises on Leetcode
 12. [Subtract the Product and Sum](https://leetcode.com/problems/subtract-the-product-and-sum-of-digits-of-an-integer/)
 13. [Number of Steps](https://leetcode.com/problems/number-of-steps-to-reduce-a-number-to-zero/)
 14. [Jewels and Stones](https://leetcode.com/problems/jewels-and-stones/)
+15. [Find Common Characters](https://leetcode.com/problems/find-common-characters/)
+16. [Intersection of Two Linked Lists](https://leetcode.com/problems/intersection-of-two-linked-lists/)

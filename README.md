@@ -20,3 +20,4 @@ Solutions to some exercises on Leetcode
 17. [Find Range](https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 18. [Subtree of Another Tree](https://leetcode.com/problems/subtree-of-another-tree/)
 19. [Logger Rate Limiter](https://leetcode.com/problems/logger-rate-limiter/)
+20. [Repeated Substring Pattern](https://leetcode.com/problems/repeated-substring-pattern/)
